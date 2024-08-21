@@ -7,14 +7,14 @@ h6{
     margin-top: 32px;
     font-weight: 500;
 }
-img{
+/* img{
     margin-left: 10px;  
     margin-top: 45px;
-    /* padding: 18px; */
-}
-.carousel-control-next ,.carousel-control-prev, .carousel-indicators{
+    padding: 18px;
+} */
+/* .carousel-control-next ,.carousel-control-prev, .carousel-indicators{
     display: none;
-}
+} */
 .leftside{
     margin-top: 140px;
     /* margin-left: 160px; */
@@ -23,6 +23,17 @@ img{
     h1 {
         font-size: 42px;
         margin: 28px;
+    }
+    img{
+        margin-left: 0px;
+    }
+    .leftside{
+        margin-top: 30px;
+    }
+    h6{
+        margin-top: auto;
+        margin-left: 28px;
+        margin-right: 28px;
     }
     
   }
